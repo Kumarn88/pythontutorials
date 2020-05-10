@@ -12,7 +12,8 @@ gf_age = 28
 ismale = True
 #intro = "When Danny Rand was 10-years old, he survived a mysterious plane crash that claimed the lives of his extremely wealthy parents. Rescued by warrior monks, Danny grew up in the of city of K'un-Lun, where he endured harsh conditions, but also trained to be a fierce warrior. Years later, Danny returns home to New York, where he wants to reconnect with his past and take his rightful place at his family's company, which is being run by his father's former business partner. Danny hopes to restore his family legacy by defeating the people who threaten it."
 # print(f" when {name1} was 10-years old, he survived a mysterious plane crash that claimed the lives of his extremely wealthy parents. He was called with nickname {name2}.\n Rescued by warrior monks, {name2} grew up in the of city of {city1}, where he endured harsh conditions, but also trained to be a fierce warrior.\n Years later, when {name2} turned {age} returned home to {city2}, where he wants to reconnect with his past and take his rightful place at his family's company {business}, which is being run by his father's former business partner, {partner} .\n Danny hopes to restore his family legacy by defeating the people who threaten it. {name2} has girlfriend name {gf_name} and her age is {gf_age}")
-print(sqrt(36)) 
+print(sqrt(36))
+These changes are in master branch
 """
 
 loan_number = input("Loan number: ")
